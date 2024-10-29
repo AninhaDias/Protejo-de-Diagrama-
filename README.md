@@ -23,7 +23,10 @@
 ## Consultar 
 ![DIAGRAMA DE SEQUENCIA (PRODUTO - CONSULTAR)](https://github.com/user-attachments/assets/80b5b7c1-021d-4d57-9d9b-0c6679a696d0)
 
-## 
+## Desativar
+![DIAGRAMA DE SEQUENCIA (PRODUTO - DESATIVAR)](https://github.com/user-attachments/assets/4826fb90-7ec6-4c6d-ad4f-9879a73d232e)
+
+
 
 
 
