@@ -17,6 +17,17 @@
 # Incluir
 ![DIAGRAMA DE SEQUÊNCIA (PRODUTO - INCLUIR)](https://github.com/user-attachments/assets/efb3c92d-a1d9-421e-9947-48f8c64af518)
 
+## Alterar
+![DIAGRAMA DE SEQUÊNCIA (PRODUTO - ALTERAR)](https://github.com/user-attachments/assets/978ac2d1-6eb5-4a55-99ea-c45565140fc2)
+
+## Consultar 
+![DIAGRAMA DE SEQUENCIA (PRODUTO - CONSULTAR)](https://github.com/user-attachments/assets/80b5b7c1-021d-4d57-9d9b-0c6679a696d0)
+
+## 
+
+
+
+
 
 
 
