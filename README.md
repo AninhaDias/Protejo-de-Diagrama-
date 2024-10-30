@@ -6,7 +6,7 @@
 # Produto
 ![DIAGRAMA DE CLASSES (PRODUTO)](https://github.com/user-attachments/assets/1ffce34a-52d7-4a35-9895-4e4f80e589a7)
 
-## Fornecedor
+# Fornecedor
 ![DIAGRAMA DE CLASSES (FORNECEDOR)](https://github.com/user-attachments/assets/e884b900-9ec0-44bb-95a3-f3672da82e28)
 
 ## Cliente
