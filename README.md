@@ -39,6 +39,25 @@
 ## Desativar
 ![DIAGRAMA DE SEQUENCIA (FORNECEDOR - DESATIVAR)](https://github.com/user-attachments/assets/96938a45-8b6f-4be3-a8e0-0062bb811739)
 
+# Cliente
+# Incluir
+![DIAGRAMA DE SEQUENCIA (CLIENTE - INCLUIR)](https://github.com/user-attachments/assets/5795025c-7293-4b22-a0df-95fc82d768af)
+
+## Alterar
+![DIAGRAMA DE SEQUENCIA (CLIENTE - ALTERAR)](https://github.com/user-attachments/assets/78e7c158-9947-4b90-a1c5-341782688607)
+
+## Consultar
+![DIAGRAMA DE SEQUENCIA (CLIENTE - CONSULTAR)](https://github.com/user-attachments/assets/b7fcfc09-792a-4699-91b4-fd3ba8278bcb)
+
+## Desativar
+![DIAGRAMA DE SEQUENCIA (CLIENTE - DESATIVAR)](https://github.com/user-attachments/assets/6334a1b1-cc7f-46d7-8526-d9af12334061)
+
+
+
+
+
+
+
 
 
 
